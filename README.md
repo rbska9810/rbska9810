@@ -3,7 +3,15 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hiiiiiiiiiiiiiiiii </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 응애 나 애기 개발자 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
+        개발의 재미를 알고, 개발에 대한 열정을 지닌 준비된 프론트엔드 개발자 입니다.<br>
+        프론트엔드 개발자 양성 과정 훈련을 통해 직무에 필요한 지식과 프로젝트 수행 경험을 갖췄습니다.<br>
+        React를 포함한 다양한 프론트엔드 개발 관련된 직무 기술을 보유하고 있습니다.<br><br>
+
+        [핵심역량]<br>
+        ∙ 사회 활동을 통해 습득한 커뮤니케이션 기술<br>
+        ∙ 전문적인 직업 훈련을 통해 습득한 프론트엔드 개발 직무 경험<br>
+    </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
